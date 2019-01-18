@@ -43,7 +43,7 @@ query {
 export default {
   data() {
     return {
-      menuPanel: true,
+      menuPanel: false,
     }
   }
 }
